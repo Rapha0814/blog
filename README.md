@@ -1,9 +1,7 @@
 # Open Source Paradigm Shift 
 > 이 글은 Tom O'Reilly가 2003년 Warburg-Pincus' 과학 기술대회에서 발언을 기반으로 작성됐습니다.
 
-* 1962년 Thomas Kuhn은 The Structure of Scientific Revolutions라고 하는 책을 출간했습니다.  
-그 책에서 그는 과학이 점진적으로 진보하는 것이 아니고 코페르니쿠스의 태양 중심설, 다윈의 진화론처럼
-획기적인 성과가 나오는 순간에 폭발적으로 발전하는 것이라고 주장했는데, 이와 같은 과학의 혁명적인 과정을 **paradigm shifts**라고 합니다.
+* 1962년 Thomas Kuhn은 The Structure of Scientific Revolutions라는 책에서 과학이 점진적으로 진보하는 것이 아니고, 코페르니쿠스의 태양 중심설, 다윈의 진화론처럼 획기적인 성과가 나오는 순간에 폭발적으로 발전하는 것이라고 주장했는데, 이와 같은 과학의 혁명적인 과정을 **paradigm shifts**라고 합니다.
 
 * 과학계와 같은 이런 혁명적인 변화가 상업계에도 많이 발생합니다.  
 
